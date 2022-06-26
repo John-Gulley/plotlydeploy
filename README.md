@@ -8,6 +8,7 @@ The website is interactively designed such that the user could choose from a dro
 •	Bubble chart: All the bacteria found in the same specific subject.
 •	Gauge chart: Shows the belly button washing frequency for each subject.
 Each time the user chooses a different number in the drop-down menu, the plots are updated to display the results for the new subject.
+
  ![image](https://user-images.githubusercontent.com/102339838/175798145-b91a9cec-7c6a-4221-a506-7103cc7834c6.png)
 
 # Results-Layout:
@@ -23,4 +24,5 @@ The main template for our website is bootstrap. The index.html and style.css fil
 4.	In addition, the website is device responsive.
 
 Overview of the Website.
+
 ![image](https://user-images.githubusercontent.com/102339838/175798153-4da2da0e-ea57-40f9-a3c4-42c9bf96eb59.png)
